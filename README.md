@@ -9,3 +9,5 @@ IveKruger.- BackEnd desarrollado con Spring Boot. Puerto para servicios Rest 808
 
 ivekrugerfront.- FrontEnd desarrollado en Angular.Js. Puerto del servidor 4200
   No está completa la funcionalidad
+  Dentro del proyecto no consta la carpeta node_modules
+  
